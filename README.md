@@ -70,6 +70,6 @@ Para agregar una imagen
 #### Integrando latex
 
 
-	$$\int_{a}^b\int_{c}^d f(x,y)dxdy$$	
+$$\int_{a}^b\int_{c}^d f(x,y)dxdy$$
 
 
