@@ -31,3 +31,24 @@ Voy a imprimir hola mundo y un número 3
 - Lápiz
 - Cuaderno
 - Mochila
+
+
+#### Listas del super
+
+- [ ] Si
+- [x] No
+
+#### Un código de python pero sin  ejecutarse y esto imprima un 4
+```python
+numero = 4
+print(numero)
+```
+```kotlin
+val numero = 4
+println(numero)
+```
+
+Para agregar una imagen
+> Para agregar una imagen
+
+![](gatoImg.jpg)
