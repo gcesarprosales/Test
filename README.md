@@ -70,6 +70,6 @@ Para agregar una imagen
 #### Integrando latex
 
 
-y = \int_{x=0}^{x=2 \pi + 10} f(x) \cdot dx
+	$$\int_{a}^b\int_{c}^d f(x,y)dxdy$$	
 
 
