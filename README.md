@@ -52,3 +52,7 @@ Para agregar una imagen
 > Para agregar una imagen
 
 ![](gatoImg.jpg)
+
+-----------------------------------
+
+![](gatoImg.jpg)
