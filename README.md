@@ -65,3 +65,11 @@ Para agregar una imagen
 |César    |Pérez      |301309989   |
 
 #### Agregar videos de youtube
+
+
+#### Integrando latex
+
+\begin{equation}
+y = \int_{x=0}^{x=2 \pi + 10} f(x) \cdot dx
+\end{equation}
+
