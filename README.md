@@ -69,7 +69,7 @@ Para agregar una imagen
 
 #### Integrando latex
 
-\begin{equation}
+
 y = \int_{x=0}^{x=2 \pi + 10} f(x) \cdot dx
-\end{equation}
+
 
